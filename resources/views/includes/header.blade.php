@@ -1,5 +1,5 @@
 <header>
-    <nav class="navbar bg-light">
+    <nav class="navbar bg-dark navbar-dark">
         <div class="container-fluid">
             <div>
                 <a class="navbar-brand" href="{{ url('/') }}">Home</a>

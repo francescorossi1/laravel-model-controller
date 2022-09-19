@@ -10855,3 +10855,10 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+#movies-list .col {
+  min-height: 20vw;
+}
+
+body {
+  background-color: #1a1a1a;
+}
